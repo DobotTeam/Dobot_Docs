@@ -7,6 +7,6 @@ Dobot Documentation
 Tutorials about how to use Dobot Application. Teach & Playback, Write & Draw, Laser Engrave, mouse control and etc.. 
 content:
 
-### Dobot Application:
-Tutorials about how to use Dobot Application. Teach & Playback, Write & Draw, Laser Engrave, mouse control and etc.. 
+### Dobot Tools Manual:
+Dobot Client and DobotServer introduction, EEG introduction,EEG bluetooth driver installation, DobotDownloadUtil.  
 
